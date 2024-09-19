@@ -9,17 +9,19 @@ import org.junit.Rule;
 import org.junit.rules.TestName;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
+import utils.ScreenShot;
 
 import java.time.Duration;
 import java.util.ArrayList;
 
 import static utils.ConfigProvider.configProperties;
 
-public class baseTest {
+public class BaseTest {
     private WebDriver webDriver;
     private Logger logger = Logger.getLogger(getClass());
     protected PageProvider pageProvider;
@@ -45,19 +47,20 @@ public class baseTest {
     @After
     public void tearDown(){
         logger.info(symbols + testName.getMethodName() + " was finished " + symbols);
+        webDriver.quit();
     }
 
     private WebDriver initDriver() {
         String browserFromProperty = System.getProperty("browser");
         logger.info("Browser is " + browserFromProperty);
-        if ((browserFromProperty == null) || (browserFromProperty.equalsIgnoreCase("chrome"))) {
+        if ((browserFromProperty == null) || (browserFromProperty.equalsIgnoreCase("chrome"))){
             WebDriverManager.chromedriver().setup();
             webDriver = new ChromeDriver();
             logger.info("Browser is chrome");
         } else if (browserFromProperty.equalsIgnoreCase("firefox")) {
             WebDriverManager.firefoxdriver().setup();
             webDriver = new FirefoxDriver();
-        } else if ("ie".equals(browserFromProperty.toLowerCase())) {
+        } else if ("ie".equals(browserFromProperty.toLowerCase())){
             WebDriverManager.iedriver().setup(); //zoom 100%
             webDriver = new InternetExplorerDriver(); //security level - Medium
         } else if ("safari".equalsIgnoreCase(browserFromProperty)) {
@@ -71,5 +74,6 @@ public class baseTest {
         }
 
         return webDriver;
+
     }
 }

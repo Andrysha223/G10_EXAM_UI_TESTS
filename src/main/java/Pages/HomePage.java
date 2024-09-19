@@ -7,4 +7,9 @@ public class HomePage extends ParentPage {
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
+
+    @Override
+    protected String getRelativeUrl() {
+        return "/";
+    }
 }

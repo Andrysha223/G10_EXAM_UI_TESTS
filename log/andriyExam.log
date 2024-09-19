@@ -1,0 +1,76 @@
+2024-19-09 12:56:38   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 12:56:38   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 12:56:45   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 12:56:45   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:03:49   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:03:49   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:03:53   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:03:53   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:07:52   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:07:53   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:07:57   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:07:57   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:09:13   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:09:13   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:09:17   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:09:17   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:11:38   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:11:38   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:11:42   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:11:42   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:14:13   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:14:13   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:14:17   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:14:17   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:21:05   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:21:11   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:24:31   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:24:36   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:24:37   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:28:25   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:28:31   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:29:37   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:29:37   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:29:51   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:29:57   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:29:57   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:29:57   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:31:43   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:31:43   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:31:47   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:31:47   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:32:25   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:32:25   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:32:29   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:32:29   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:32:30   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:32:30   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:33:44   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:33:44   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:33:47   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:33:48   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:33:48   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:33:48   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:36:13   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:36:13   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:36:16   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:36:17   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:36:17   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:36:17   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:37:18   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:37:18   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:37:22   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:37:22   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:37:22   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:41:19   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:41:19   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:41:23   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:41:23   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:41:24   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:41:24   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 13:41:54   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 13:41:54   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 13:41:58   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 13:41:58   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 13:41:59   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 13:41:59   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
