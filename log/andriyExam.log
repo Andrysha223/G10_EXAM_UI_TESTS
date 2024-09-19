@@ -74,3 +74,91 @@
 2024-19-09 13:41:58   INFO [LoginTest.LoginTest] : Browser was opened
 2024-19-09 13:41:59   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
 2024-19-09 13:41:59   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:07:51   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:07:51   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:07:56   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:07:56   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:07:56   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:07:57   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:07:57   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:07:57   INFO [Pages.LoginPage] : Password element is displayed
+2024-19-09 14:07:57   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:13:13   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:13:13   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:13:18   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:13:18   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:13:18   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:13:19   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:13:19   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:13:19   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:13:19   INFO [Pages.LoginPage] : Password element is displayed
+2024-19-09 14:13:19   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:15:02   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:15:02   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:15:06   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:15:06   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:15:07   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:15:07   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:15:08   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:15:08   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:15:08   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:17:20   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:17:20   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:17:24   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:17:24   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:17:25   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:17:25   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:17:26   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:17:26   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:17:26   INFO [Pages.LoginPage] : Password element is displayed
+2024-19-09 14:17:26   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:23:03   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:23:03   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:23:07   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:23:07   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:23:08   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:23:08   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:23:09   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:23:09   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:23:10   INFO [Pages.LoginPage] : Password element is displayed
+2024-19-09 14:23:10   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:23:27   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:23:27   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:23:31   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:23:32   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:23:33   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:23:33   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:23:33   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:23:34   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:23:36   INFO [Pages.LoginPage] : Password element is displayed
+2024-19-09 14:23:36   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:23:56   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:23:56   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:24:00   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:24:00   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:24:01   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:24:01   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:24:01   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:24:01   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:24:04   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:24:45   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:24:45   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:24:49   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:24:49   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:24:50   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:24:50   INFO [Pages.LoginPage] : standard_user was entered into inputPassword
+2024-19-09 14:24:50   INFO [Pages.LoginPage] : secret_sauce was entered into inputUsername
+2024-19-09 14:24:50   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:24:52   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-19-09 14:29:53   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-19-09 14:29:53   INFO [LoginTest.LoginTest] : Browser is null
+2024-19-09 14:29:56   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-19-09 14:29:57   INFO [LoginTest.LoginTest] : Browser was opened
+2024-19-09 14:29:57   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-19-09 14:29:58   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-19-09 14:29:58   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-19-09 14:29:58   INFO [Pages.LoginPage] : Login Element was clicked
+2024-19-09 14:30:04   INFO [Pages.LoginPage] : Log In button Element is not displayed
+2024-19-09 14:30:09   INFO [Pages.LoginPage] : Element is not visible
+2024-19-09 14:30:14   INFO [Pages.LoginPage] : Element is not visible
+2024-19-09 14:30:14   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------

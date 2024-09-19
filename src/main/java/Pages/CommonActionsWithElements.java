@@ -94,6 +94,32 @@ public class CommonActionsWithElements {
         }
     }
 
+    protected boolean isElementVisible(WebElement webElement) {
+        try {
+            boolean state = webElement.isDisplayed();
+            if (state) {
+                logger.info(getElementName(webElement) + " element is displayed");
+            } else {
+                logger.info(getElementName(webElement) + " element is not displayed");
+            }
+            return state;
+        } catch (Exception e) {
+            logger.info("Element is not visible");
+            return false;
+        }
+    }
+
+    protected void clickOnElement(WebElement webElement) {
+        try {
+            webDriverWait_10.until(ExpectedConditions.elementToBeClickable(webElement));
+            String elementName = getElementName(webElement);
+            webElement.click();
+            logger.info(elementName + " Element was clicked");
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+        }
+    }
+
     protected void acceptAlert() {
         try {
             webDriverWait_10.until(ExpectedConditions.alertIsPresent());
