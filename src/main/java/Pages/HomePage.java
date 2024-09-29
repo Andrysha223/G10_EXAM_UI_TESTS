@@ -2,27 +2,16 @@ package Pages;
 
 import Pages.elements.HeaderElement;
 import io.qameta.allure.Step;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.ui.Select;
 
 public class HomePage extends ParentPage {
 
     @FindBy (xpath = "//select[@class='product_sort_container' and @data-test='product-sort-container']\n")
     private WebElement sortDropDown;
-
-    @FindBy(css = "select.product_sort_container[data-test='product-sort-container']")
-    private WebElement sortDropdown;
-
-    @FindBy (xpath = "//button[@id='add-to-cart-sauce-labs-backpack']\n")
-    private WebElement getAddToCart;
-
-    @FindBy (xpath = "//button[@id='remove-sauce-labs-backpack']\n")
-    private WebElement removeButton;
-
-
 
     public HeaderElement getHeaderElement() {
         return new HeaderElement(webDriver);
@@ -41,42 +30,57 @@ public class HomePage extends ParentPage {
         return new HomePage(webDriver);
     }
 
-    public CommonActionsWithElements getCommonActionsWithElements() {
-        return new CommonActionsWithElements(webDriver);
-    }
-
     @Step
     public boolean isSortDropDownIsVisible() {
         return isElementVisible(sortDropDown, "SortDropDown is visible");
     }
 
-    @Step
-    public void selectSortOptionByValue(String value) {
-        Select dropdown = new Select(sortDropdown);
-        dropdown.selectByValue(value);
+    public void addToCartByName(String productName) {
+        String buttonLocator = String.format("//button[@data-test='add-to-cart-%s']",
+                productName.toLowerCase().replace(" ", "-"));
+        WebElement addToCartButton = webDriver.findElement(By.xpath(buttonLocator));
+        clickOnElement(addToCartButton);
     }
 
-    @Step
-    public void selectSortOptionByText(String visibleText) {
-        Select dropdown = new Select(sortDropdown);
-        dropdown.selectByVisibleText(visibleText);
+    public boolean isRemoveButtonVisible(String productName) {
+        String buttonLocator = String.format("//button[@data-test='remove-%s']",
+                productName.toLowerCase().replace(" ", "-"));
+        try {
+            WebElement removeButton = webDriver.findElement(By.xpath(buttonLocator));
+            return isElementDisplayed(removeButton, "Remove button for " + productName);
+        } catch (Exception e) {
+            logger.info("Remove button for " + productName + " is not found");
+            return false;
+        }
     }
 
-    @Step
-    public String getSelectedOption() {
-        Select dropdown = new Select(sortDropdown);
-        return dropdown.getFirstSelectedOption().getAttribute("value");
+    public HomePage checkIsRemoveButtonVisible(String productName) {
+        Assert.assertTrue("Remove Button for "
+                + productName + " is not visible", isRemoveButtonVisible(productName));
+        return this;
     }
 
-    @Step
-    public void addToCart () {
-        clickOnElement(getAddToCart);
+    public HomePage checkIsRemoveButtonNotVisible(String productName) {
+        Assert.assertFalse("Remove Button for "
+                + productName + " is visible", isRemoveButtonVisible(productName));
+        return this;
     }
 
-    @Step
-    public boolean isRemoveButtonFromCartIsVisible (){
-        return isElementVisible(removeButton, "RemoveButton is Visible");
+
+    public void removeFromCartByName(String productName) {
+        String buttonLocator = String.format("//button[@data-test='remove-%s']",
+                productName.toLowerCase().replace(" ", "-"));
+        WebElement removeButton = webDriver.findElement(By.xpath(buttonLocator));
+        clickOnElement(removeButton);
     }
+
+
+    public void goToProductPageByName(String productName) {
+        String productLocator = String.format("//div[@data-test='inventory-item-name' and text()='%s']", productName);
+        WebElement productElement = webDriver.findElement(By.xpath(productLocator));
+        clickOnElement(productElement);
+    }
+
 
 
 

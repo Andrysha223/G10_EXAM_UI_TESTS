@@ -3,6 +3,8 @@ package Pages.elements;
 import Pages.CommonActionsWithElements;
 import Pages.HomePage;
 import io.qameta.allure.Step;
+import org.apache.log4j.Logger;
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -20,6 +22,8 @@ public class HeaderElement extends CommonActionsWithElements {
 
     @FindBy(css = "span.shopping_cart_badge[data-test='shopping-cart-badge']")
     private WebElement cartBadge;
+    private Logger logger = Logger.getLogger(getClass());
+
 
 
     public HeaderElement(WebDriver webDriver) {
@@ -33,10 +37,22 @@ public class HeaderElement extends CommonActionsWithElements {
 
     @Step
     public String getCartCount() {
+        String count = "0";
+
         if (isElementDisplayed(cartBadge, "Cart badge")) {
-            return cartBadge.getText();
+            count = cartBadge.getText();
         }
-        return "0";
+        logger.info("Goods Count: " + count);
+
+        return count;
+    }
+
+    @Step
+    public void verifyCartCount(String expectedCount) {
+        String actualCount = getCartCount();
+        Assert.assertEquals("Ошибка: Количество товаров в корзине не соответствует ожидаемому значению.",
+                expectedCount, actualCount);
+        logger.info("Тест пройден: ожидаемое количество товаров " + expectedCount + " совпадает с фактическим.");
     }
 
     @Step

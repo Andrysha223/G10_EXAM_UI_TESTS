@@ -16,6 +16,13 @@ public class PageProvider {
     public HomePage getHomePage() {
         return new HomePage(webDriver);
     }
+
+
+    public ProductPage getProductPage(){
+        return new ProductPage(webDriver);
+    }
+
+
     public CommonActionsWithElements getCommonActionsWithElements() {
         return new CommonActionsWithElements(webDriver);
     }

@@ -12,7 +12,7 @@ public class ValidationMessage extends BaseTest {
 
     @Test
     @Parameters(method = "parametersForValidationMessagesTest")
-    public void T06_ValidationMessagesTest(String userName, String password, String expectedMessages) {
+    public void T07_ValidationMessagesTest(String userName, String password, String expectedMessages) {
         pageProvider.getLoginPage().openLoginPage();
         pageProvider.getLoginPage().enterTextIntoInputLogin(userName);
         pageProvider.getLoginPage().enterTextIntoInputPassword(password);
