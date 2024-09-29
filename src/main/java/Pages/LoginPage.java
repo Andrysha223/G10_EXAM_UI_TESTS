@@ -82,6 +82,7 @@ public class LoginPage extends ParentPage {
         return isElementDisplayed(buttonLogIn, "Sign In button");
     }
 
+
     public boolean isNotificationVisible() {
         return isElementDisplayed(notificationAlert, "Notification alert");
     }

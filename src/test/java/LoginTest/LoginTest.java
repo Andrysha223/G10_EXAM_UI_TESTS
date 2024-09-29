@@ -2,13 +2,15 @@ package LoginTest;
 
 import BaseTest.BaseTest;
 import Data.TestData;
+import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Assert;
 import org.junit.Test;
+import org.junit.runner.RunWith;
 
 import static Data.TestData.*;
 
-
+@RunWith(JUnitParamsRunner.class)
 public class LoginTest extends BaseTest {
     final String ALERT_MESSAGE = "Epic sadface: Username and password do not match any user in this service";
 
@@ -79,7 +81,23 @@ public class LoginTest extends BaseTest {
         Assert.assertFalse("Button BurgerMenu Is displayed",
                 pageProvider.getHomePage().getHeaderElement().isBurgerMenuButtonIsVisible());
 
+    }
+    @Test
+    @Parameters(method = "ParametersForInvalidLoginTest")
+    public void T06_InvalidLoginWithParameters(String login, String password, String alertMessage) {
+        pageProvider.getLoginPage().openLoginPage();
+        pageProvider.getLoginPage().enterTextIntoInputLogin(login);
+        pageProvider.getLoginPage().enterTextIntoInputPassword(password);
+        pageProvider.getLoginPage().clickOnButtonLogin();
+        pageProvider.getLoginPage().isNotificationVisible();
+    }
 
+    public Object[][] ParametersForInvalidLoginTest() {
+        return new Object[][]{
+                {INVALID_LOGIN_UI, INVALID_PASSWORD_UI, ALERT_MESSAGE},
+                {VALID_LOGIN_UI, INVALID_PASSWORD_UI, ALERT_MESSAGE},
+                {INVALID_LOGIN_UI, VALID_PASSWORD_UI, ALERT_MESSAGE}
+        };
     }
 
 
