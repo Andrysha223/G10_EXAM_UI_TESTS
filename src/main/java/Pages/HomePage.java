@@ -4,6 +4,7 @@ import Pages.elements.HeaderElement;
 import io.qameta.allure.Step;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -67,21 +68,25 @@ public class HomePage extends ParentPage {
     }
 
 
-    public void removeFromCartByName(String productName) {
-        String buttonLocator = String.format("//button[@data-test='remove-%s']",
-                productName.toLowerCase().replace(" ", "-"));
-        WebElement removeButton = webDriver.findElement(By.xpath(buttonLocator));
-        clickOnElement(removeButton);
-    }
-
-
     public void goToProductPageByName(String productName) {
         String productLocator = String.format("//div[@data-test='inventory-item-name' and text()='%s']", productName);
         WebElement productElement = webDriver.findElement(By.xpath(productLocator));
+        logger.info("Entered Product: " + productName);
         clickOnElement(productElement);
+        logger.info("Product '" + productName + "' successfully opened");
     }
 
+    public void removeFromCartByName(String productName) {
+        String formattedProductName = productName.toLowerCase().replace(" ", "-");
+        String buttonLocator = String.format("//button[@data-test='remove-%s']", formattedProductName);
+        try {
+            WebElement removeButton = webDriver.findElement(By.xpath(buttonLocator));
+            clickOnElement(removeButton);
+            logger.info("Product '" + productName + "' was removed from the cart.");
+        } catch (NoSuchElementException e) {
+            logger.error("Remove button for product '" + productName + "' was not found.");
+            throw new AssertionError("Remove button for product '" + productName + "' was not found.");
+        }
 
-
-
-}
+    }
+    }

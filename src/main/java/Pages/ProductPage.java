@@ -35,7 +35,7 @@ public class ProductPage extends ParentPage {
     }
 
 
-    public ProductPage clickAddToCart () {
+    public ProductPage clickAddToCart() {
         clickOnElement(productAddToCart);
         return new ProductPage(webDriver);
     }

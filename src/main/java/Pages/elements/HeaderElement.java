@@ -48,16 +48,16 @@ public class HeaderElement extends CommonActionsWithElements {
     }
 
     @Step
-    public void verifyCartCount(String expectedCount) {
+    public void checkCartCount(String expectedCount) {
         String actualCount = getCartCount();
-        Assert.assertEquals("Ошибка: Количество товаров в корзине не соответствует ожидаемому значению.",
+        Assert.assertEquals("Error: The number of items in the cart does not match the expected value.",
                 expectedCount, actualCount);
-        logger.info("Тест пройден: ожидаемое количество товаров " + expectedCount + " совпадает с фактическим.");
+        logger.info("Expected quantity of goods " + expectedCount + " coincides with the actual one.");
     }
 
     @Step
     public boolean isBurgerMenuButtonIsVisible() {
-        return isElementDisplayed(burgerMenuButton , "Cart button");
+        return isElementDisplayed(burgerMenuButton , "BurgerMenu button");
     }
 
     @Step

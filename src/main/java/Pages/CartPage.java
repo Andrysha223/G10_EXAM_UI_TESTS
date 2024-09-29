@@ -12,6 +12,10 @@ public class CartPage extends ParentPage {
         super(webDriver);
     }
 
+    public CartPage getProductPage() {
+        return new CartPage(webDriver);
+    }
+
     public HeaderElement getHeaderElement() {
         return new HeaderElement(webDriver);
     }
