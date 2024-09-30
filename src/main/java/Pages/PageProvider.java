@@ -22,11 +22,6 @@ public class PageProvider {
         return new ProductPage(webDriver);
     }
 
-    public CartPage getCartPage() {
-        return new CartPage(webDriver);
-    }
-
-
     public CommonActionsWithElements getCommonActionsWithElements() {
         return new CommonActionsWithElements(webDriver);
     }
