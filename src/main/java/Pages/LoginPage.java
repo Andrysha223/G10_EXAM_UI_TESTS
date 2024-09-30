@@ -2,10 +2,16 @@ package Pages;
 
 import Data.TestData;
 import io.qameta.allure.Step;
+import org.apache.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class LoginPage extends ParentPage {
 
@@ -20,6 +26,14 @@ public class LoginPage extends ParentPage {
 
     @FindBy (xpath = "//div[contains(@class, 'error-message-container')]//h3[@data-test='error' and contains(., 'Epic sadface: Username and password do not match any user in this service')]\n")
     private WebElement notificationAlert;
+
+    final static String listErrorMessages = "//div[contains(@class, 'error-message-container')]";
+    @FindBy(xpath = listErrorMessages)
+    private List<WebElement> listOfMessages;
+
+    private Logger logger = Logger.getLogger(getClass());
+
+
 
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
@@ -85,6 +99,29 @@ public class LoginPage extends ParentPage {
 
     public boolean isNotificationVisible() {
         return isElementDisplayed(notificationAlert, "Notification alert");
+    }
+
+
+    public LoginPage checkErrorMessageForLoginForm(String expectedMessage) {
+        logger.info("Expected error message: " + expectedMessage);
+        webDriverWait_15.until(ExpectedConditions.
+                visibilityOfAllElementsLocatedBy(By.xpath(listErrorMessages)));
+        List<WebElement> errorMessages = listOfMessages;
+        List<String> actualMessages = errorMessages.stream()
+                .map(WebElement::getText)
+                .map(String::trim)
+                .collect(Collectors.toList());
+        logger.info("Actual error messages: " + actualMessages);
+        boolean messageFound = actualMessages.contains(expectedMessage.trim());
+        Assert.assertTrue("Expected message not found: " + expectedMessage,
+                messageFound);
+        if (messageFound) {
+            logger.info("Expected message found.");
+        } else {
+            logger.warn("Expected message not found.");
+        }
+
+        return this;
     }
 
 }

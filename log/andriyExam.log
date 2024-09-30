@@ -987,3 +987,700 @@
 2024-30-09 01:55:23   INFO [Pages.elements.HeaderElement] : Cart badge Element is displayed
 2024-30-09 01:55:23   INFO [Pages.elements.HeaderElement] : Goods Count: 1
 2024-30-09 01:55:23   INFO [CartTest.AddToCart] : ----------T_10_AddToCartOnProductPage was finished ----------
+2024-30-09 15:19:49   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-30-09 15:19:49   INFO [LoginTest.LoginTest] : Browser is null
+2024-30-09 15:19:54   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-30-09 15:19:55   INFO [LoginTest.LoginTest] : Browser was opened
+2024-30-09 15:19:55   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:19:56   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-30-09 15:19:56   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-30-09 15:19:56   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:19:56   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-30-09 15:19:56   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-30-09 15:19:56   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-30-09 15:19:56   INFO [LoginTest.LoginTest] : Browser is null
+2024-30-09 15:19:58   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-30-09 15:19:58   INFO [LoginTest.LoginTest] : Browser was opened
+2024-30-09 15:19:59   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:19:59   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-30-09 15:20:00   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-30-09 15:20:00   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:20:00   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-30-09 15:20:00   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-30-09 15:20:00   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-30-09 15:20:00   INFO [LoginTest.LoginTest] : Browser is null
+2024-30-09 15:20:02   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-30-09 15:20:02   INFO [LoginTest.LoginTest] : Browser was opened
+2024-30-09 15:20:02   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:20:03   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-30-09 15:20:03   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-30-09 15:20:03   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:20:03   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-30-09 15:20:03   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-30-09 15:35:49   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:35:49   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:35:53   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:35:53   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:35:54   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:35:54   INFO [Pages.LoginPage] : tr was entered into inputUsername
+2024-30-09 15:35:54   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:38:02   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:38:02   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:38:07   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:38:07   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:38:08   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:38:08   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:38:08   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:38:19   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:38:19   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:38:19   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:38:21   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:38:21   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:38:21   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:38:22   INFO [Pages.LoginPage] : Andriy was entered into inputPassword
+2024-30-09 15:38:22   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:38:24   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:40:30   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:40:30   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:40:34   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:40:34   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:40:35   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:40:35   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:40:36   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:40:36   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:40:46   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:40:46   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:40:46   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:40:48   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:40:48   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:40:49   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:40:49   INFO [Pages.LoginPage] : Andriy was entered into inputPassword
+2024-30-09 15:40:49   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:40:49   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:40:52   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:41:38   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:41:38   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:41:42   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:41:42   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:41:42   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:41:43   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:41:43   INFO [Pages.LoginPage] : tr was entered into inputPassword
+2024-30-09 15:41:43   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:41:45   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:41:46   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:41:46   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:41:47   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:41:48   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:41:48   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:44:26   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:44:26   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:44:30   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:44:30   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:44:31   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:44:31   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:44:32   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:44:32   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:44:42   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:44:43   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:44:43   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:44:44   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:44:44   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:44:45   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:44:45   INFO [Pages.LoginPage] : Andriy was entered into inputPassword
+2024-30-09 15:44:45   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:44:46   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:44:48   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:45:19   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:45:19   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:45:22   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:45:23   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:45:23   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:45:24   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 15:45:24   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:45:24   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:45:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:45:35   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:45:35   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:45:36   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:45:37   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:45:37   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:45:38   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 15:45:38   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:45:38   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:45:40   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:50:16   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:50:16   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:50:21   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:50:21   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:50:22   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:50:22   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 15:50:22   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:50:22   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:50:33   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:50:33   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:50:33   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:50:35   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:50:36   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:50:36   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:50:37   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 15:50:37   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:50:37   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:50:38   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:52:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:52:41   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:52:45   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:52:45   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:52:46   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:52:46   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 15:52:47   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:52:47   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:52:48   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:52:48   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:52:48   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:52:50   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:52:50   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:52:51   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:52:51   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 15:52:51   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:52:52   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:52:52   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:53:32   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:53:32   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:53:36   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:53:36   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:53:36   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:53:37   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 15:53:38   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:53:38   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:53:39   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:53:39   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:53:39   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:53:41   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:53:41   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:53:42   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:53:42   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 15:53:42   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:53:42   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:53:42   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:56:23   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:56:23   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:56:27   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:56:28   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:56:28   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:56:29   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 15:56:29   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 15:56:29   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:56:40   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 15:56:40   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 15:56:40   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 15:56:42   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 15:56:42   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 15:56:43   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 15:56:43   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 15:56:43   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 15:56:43   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 15:56:45   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:00:11   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:00:11   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:00:15   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:00:15   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:00:16   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:00:16   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:00:16   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:00:16   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:00:16   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:00:17   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:00:17   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:00:18   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:00:19   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:00:19   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:00:20   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:00:20   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:00:20   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:00:21   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:02:11   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:02:11   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:02:15   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:02:15   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:02:16   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:02:17   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:02:17   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:02:17   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:02:17   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:02:17   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:02:17   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:02:19   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:02:19   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:02:20   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:02:20   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:02:21   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:02:21   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:02:22   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:04:52   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:04:52   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:04:56   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:04:57   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:04:57   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:04:57   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:04:58   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:04:58   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:05:00   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:05:00   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:05:00   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:05:01   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:05:02   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:05:02   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:05:03   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:05:03   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:05:03   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:05:03   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:05:48   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:05:48   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:05:51   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:05:52   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:05:52   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:05:53   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:05:53   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:05:53   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:05:54   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:05:55   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:05:55   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:05:56   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:05:57   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:05:57   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:05:58   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:05:58   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:05:58   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:05:58   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:06:17   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:06:18   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:06:21   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:06:21   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:06:22   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:06:22   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:06:23   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:06:23   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:06:23   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:06:23   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:06:23   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:06:25   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:06:25   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:06:25   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:06:26   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:06:26   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:06:26   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:06:27   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:07:20   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:07:20   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:07:24   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:07:24   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:07:24   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:07:25   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:07:25   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:07:25   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:07:27   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:07:27   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:07:27   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:07:29   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:07:29   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:07:29   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:07:30   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:07:30   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:07:30   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:07:30   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:08:37   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:08:37   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:08:40   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:08:41   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:08:41   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:08:42   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:08:42   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:08:42   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:08:42   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:08:42   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:08:42   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:08:44   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:08:45   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:08:45   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:08:45   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:08:46   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:08:46   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:08:47   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:08:47   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:08:47   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:08:49   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:08:49   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:08:50   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:08:50   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:08:50   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:08:50   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:08:50   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:09:50   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:09:50   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:09:53   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:09:53   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:09:54   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:09:54   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:09:55   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:09:55   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:09:55   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:09:55   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:09:55   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:09:57   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:09:57   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:09:57   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:09:58   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:09:58   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:09:58   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:09:59   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:10:00   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:10:00   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:10:01   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:10:02   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:10:02   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:10:02   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:10:03   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:10:03   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:10:03   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:12:10   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:12:10   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:12:14   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:12:14   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:12:15   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:12:15   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:12:16   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:12:16   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:12:18   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:12:18   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:12:18   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:12:20   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:12:20   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:12:21   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:12:21   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:12:21   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:12:22   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:12:23   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:13:14   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:13:14   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:13:18   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:13:18   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:13:19   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:13:19   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:13:19   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:13:20   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:13:30   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:13:30   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:13:30   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:13:32   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:13:32   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:13:32   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:13:33   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:13:33   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:13:33   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:13:35   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:18:14   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:18:14   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:18:18   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:18:18   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:18:19   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:18:20   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:18:20   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:18:20   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:18:30   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:18:31   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:18:31   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:18:33   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:18:33   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:18:33   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:18:34   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:18:34   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:18:34   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:18:36   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:24:59   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:24:59   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:25:03   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:25:03   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:25:04   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:25:04   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:25:05   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:25:05   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:25:05   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:25:05   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:25:05   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:25:07   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:25:07   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:25:08   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:25:08   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:25:08   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:25:09   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:25:10   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:27:22   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:27:22   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:27:26   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:27:26   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:27:27   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:27:27   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:27:27   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:27:27   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:27:27   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:27:28   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:27:28   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:27:30   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:27:30   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:27:30   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:27:31   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:27:31   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:27:31   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:27:31   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:29:29   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:29:29   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:29:33   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:29:34   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:29:34   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:29:34   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:29:35   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:29:35   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:29:35   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:29:35   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:29:35   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:29:37   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:29:37   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:29:38   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:29:38   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:29:38   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:29:38   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:29:38   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:33:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:33:34   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:33:39   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:33:39   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:33:39   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:33:40   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:33:40   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:33:40   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:33:40   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:33:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:33:41   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:33:42   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:33:43   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:33:43   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:33:43   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:33:44   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:33:44   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:33:44   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:34:02   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:34:02   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:34:06   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:34:06   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:34:07   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:34:07   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:34:07   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:34:08   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:34:08   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:34:08   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:34:08   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:34:10   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:34:10   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:34:10   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:34:11   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:34:11   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:34:11   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:34:11   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:35:29   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:35:29   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:35:33   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:35:33   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:35:33   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:35:34   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:35:34   INFO [Pages.LoginPage] : somePassword was entered into inputPassword
+2024-30-09 16:35:34   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:35:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:35:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:35:34   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:35:36   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:35:36   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:35:37   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:35:37   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:35:38   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:35:38   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:35:38   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:45:14   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:45:14   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:45:18   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:45:18   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:45:19   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:45:20   INFO [Pages.LoginPage] : somePassword was entered into inputUsername
+2024-30-09 16:45:20   INFO [Pages.LoginPage] :   was entered into inputPassword
+2024-30-09 16:45:20   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:45:20   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:45:20   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:45:20   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:45:22   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:45:22   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:45:23   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:45:23   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:45:24   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:45:24   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:45:24   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:45:36   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:45:36   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:45:40   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:45:40   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:45:40   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:45:41   INFO [Pages.LoginPage] : somePassword was entered into inputUsername
+2024-30-09 16:45:41   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:45:41   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:45:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:45:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:45:41   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:45:44   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:45:44   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:45:48   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:45:49   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:45:49   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:45:49   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:45:49   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:46:02   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:46:02   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:46:06   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:46:06   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:46:07   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:46:07   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:46:07   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:46:07   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:46:07   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:46:08   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:46:08   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:46:10   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:46:10   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:46:10   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:46:11   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:46:11   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:46:11   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:46:11   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:46:36   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:46:36   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:46:40   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:46:40   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:46:40   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:46:41   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:46:41   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:46:41   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:46:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:46:41   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:46:41   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:46:43   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:46:44   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:46:44   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:46:44   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:46:45   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:46:45   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:46:45   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:48:28   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:48:28   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:48:32   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:48:32   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:48:33   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:48:33   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:48:34   INFO [Pages.LoginPage] : s was entered into inputPassword
+2024-30-09 16:48:34   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:48:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:48:34   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:48:34   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:48:36   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:48:36   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:48:37   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:48:37   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:48:37   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:48:37   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:48:37   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:49:12   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:49:12   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:49:16   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:49:16   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:49:17   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:49:17   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:49:17   INFO [Pages.LoginPage] : qwe12335 was entered into inputPassword
+2024-30-09 16:49:17   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:49:17   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:49:18   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:49:18   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:49:20   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:49:20   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:49:20   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:49:21   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:49:21   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:49:21   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:49:21   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:53:12   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:53:13   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:53:17   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:53:17   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:53:17   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:53:18   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:53:18   INFO [Pages.LoginPage] : qwe12335 was entered into inputPassword
+2024-30-09 16:53:18   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:53:18   INFO [Pages.LoginPage] : Очікуване повідомлення про помилку: Epic sadface: Username is required
+2024-30-09 16:53:18   INFO [Pages.LoginPage] : Фактичні повідомлення про помилку: [Epic sadface: Username is required]
+2024-30-09 16:53:18   INFO [Pages.LoginPage] : Очікуване повідомлення знайдено.
+2024-30-09 16:53:18   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:53:19   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:53:19   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:53:20   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:53:21   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:53:21   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:53:22   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:53:22   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:53:22   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:53:22   INFO [Pages.LoginPage] : Очікуване повідомлення про помилку: Epic sadface: Password is required
+2024-30-09 16:53:22   INFO [Pages.LoginPage] : Фактичні повідомлення про помилку: [Epic sadface: Password is required]
+2024-30-09 16:53:22   INFO [Pages.LoginPage] : Очікуване повідомлення знайдено.
+2024-30-09 16:53:22   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:55:06   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:55:06   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:55:10   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:55:11   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:55:11   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:55:11   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:55:12   INFO [Pages.LoginPage] : qwe12335 was entered into inputPassword
+2024-30-09 16:55:12   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:55:12   INFO [Pages.LoginPage] : Очікуване повідомлення про помилку: Epic sadface: Username is required
+2024-30-09 16:55:12   INFO [Pages.LoginPage] : Actual error messages: [Epic sadface: Username is required]
+2024-30-09 16:55:12   INFO [Pages.LoginPage] : Expected message found.
+2024-30-09 16:55:12   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:55:12   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:55:12   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:55:14   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:55:14   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:55:15   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:55:15   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:55:16   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:55:16   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:55:16   INFO [Pages.LoginPage] : Очікуване повідомлення про помилку: Epic sadface: Password is required
+2024-30-09 16:55:16   INFO [Pages.LoginPage] : Actual error messages: [Epic sadface: Password is required]
+2024-30-09 16:55:16   INFO [Pages.LoginPage] : Expected message found.
+2024-30-09 16:55:16   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:57:15   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:57:15   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:57:19   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:57:20   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:57:20   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:57:21   INFO [Pages.LoginPage] :  was entered into inputUsername
+2024-30-09 16:57:21   INFO [Pages.LoginPage] : qwe12335 was entered into inputPassword
+2024-30-09 16:57:21   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:57:21   INFO [Pages.LoginPage] : Expected error message: Epic sadface: Username is required
+2024-30-09 16:57:21   INFO [Pages.LoginPage] : Actual error messages: [Epic sadface: Username is required]
+2024-30-09 16:57:21   INFO [Pages.LoginPage] : Expected message found.
+2024-30-09 16:57:21   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-30-09 16:57:21   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest----------
+2024-30-09 16:57:21   INFO [LoginTest.ValidationMessage] : Browser is null
+2024-30-09 16:57:23   INFO [LoginTest.ValidationMessage] : Browser is chrome
+2024-30-09 16:57:24   INFO [LoginTest.ValidationMessage] : Browser was opened
+2024-30-09 16:57:24   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-30-09 16:57:24   INFO [Pages.LoginPage] : Andriy was entered into inputUsername
+2024-30-09 16:57:25   INFO [Pages.LoginPage] :  was entered into inputPassword
+2024-30-09 16:57:25   INFO [Pages.LoginPage] : Login Element was clicked
+2024-30-09 16:57:25   INFO [Pages.LoginPage] : Expected error message: Epic sadface: Password is required
+2024-30-09 16:57:25   INFO [Pages.LoginPage] : Actual error messages: [Epic sadface: Password is required]
+2024-30-09 16:57:25   INFO [Pages.LoginPage] : Expected message found.
+2024-30-09 16:57:25   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------

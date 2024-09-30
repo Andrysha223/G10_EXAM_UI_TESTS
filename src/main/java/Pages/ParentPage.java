@@ -11,15 +11,12 @@ abstract class ParentPage extends CommonActionsWithElements {
      String baseUrl = ConfigProvider.configProperties.base_url().replace("[env]", environment);
 
 
-
     public ParentPage(WebDriver webDriver) {
         super(webDriver);
     }
     abstract protected String getRelativeUrl();
 
-    /**
-     * Method for checking static URL
-     */
+
     protected void checkUrl() {
         Assert.assertEquals("URL is not expected"
                 , baseUrl + getRelativeUrl()

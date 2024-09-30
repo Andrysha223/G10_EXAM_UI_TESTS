@@ -67,7 +67,6 @@ public class HomePage extends ParentPage {
         return this;
     }
 
-
     public void goToProductPageByName(String productName) {
         String productLocator = String.format("//div[@data-test='inventory-item-name' and text()='%s']", productName);
         WebElement productElement = webDriver.findElement(By.xpath(productLocator));

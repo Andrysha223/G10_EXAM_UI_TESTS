@@ -8,6 +8,9 @@ import org.junit.runner.RunWith;
 
 @RunWith(JUnitParamsRunner.class)
 public class ValidationMessage extends BaseTest {
+    final String USER_NAME_MESSAGE = "Epic sadface: Username is required";
+    final String PASSWORD_MESSAGE = "Epic sadface: Password is required";
+
 
 
     @Test
@@ -16,5 +19,14 @@ public class ValidationMessage extends BaseTest {
         pageProvider.getLoginPage().openLoginPage();
         pageProvider.getLoginPage().enterTextIntoInputLogin(userName);
         pageProvider.getLoginPage().enterTextIntoInputPassword(password);
+        pageProvider.getLoginPage().clickOnButtonLogin();
+        pageProvider.getLoginPage().checkErrorMessageForLoginForm(expectedMessages);
+    }
+
+    public Object[][] parametersForValidationMessagesTest() {
+        return new Object[][]{
+                { "", "qwe12335", USER_NAME_MESSAGE },
+                {"Andriy", "", PASSWORD_MESSAGE}
+        };
     }
 }
