@@ -1797,3 +1797,30 @@
 2024-05-11 19:10:58   INFO [Pages.CommonActionsWithElements] : Switched to new tab
 2024-05-11 19:10:58   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
 2024-05-11 19:11:03   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:23:33   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 19:23:33   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:23:39   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:23:39   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:23:40   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:23:40   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-05-11 19:23:40   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-05-11 19:23:41   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:23:41   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 19:23:41   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 19:23:41   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:23:43   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:23:43   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:23:43   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:23:44   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:23:44   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-05-11 19:23:44   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:23:44   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 19:23:44   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 19:23:44   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:23:46   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:23:46   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:23:47   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:23:47   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-05-11 19:23:47   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:23:47   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:23:47   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
