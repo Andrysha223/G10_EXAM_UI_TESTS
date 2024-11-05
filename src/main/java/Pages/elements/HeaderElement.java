@@ -36,6 +36,13 @@ public class HeaderElement extends CommonActionsWithElements {
     }
 
     @Step
+    public HeaderElement checkCartButtonIsVisible() {
+        checkIsElementVisible(buttonCart);
+        return this;
+    }
+
+
+    @Step
     public String getCartCount() {
         String count = "0";
 

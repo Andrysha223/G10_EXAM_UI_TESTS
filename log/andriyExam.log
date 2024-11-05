@@ -1684,3 +1684,116 @@
 2024-30-09 16:57:25   INFO [Pages.LoginPage] : Actual error messages: [Epic sadface: Password is required]
 2024-30-09 16:57:25   INFO [Pages.LoginPage] : Expected message found.
 2024-30-09 16:57:25   INFO [LoginTest.ValidationMessage] : ----------T07_ValidationMessagesTest was finished ----------
+2024-05-11 07:40:39   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 07:40:39   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 07:40:45   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 07:40:45   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 07:40:46   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 07:40:47   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-05-11 07:40:47   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-05-11 07:40:47   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 07:40:47   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-05-11 07:40:47   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 07:40:48   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 07:40:48   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 07:40:50   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 07:40:50   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 07:40:50   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 07:40:51   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 07:40:51   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-05-11 07:40:51   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 07:40:51   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-05-11 07:40:51   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 07:40:51   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters----------
+2024-05-11 07:40:51   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 07:40:53   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 07:40:53   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 07:40:54   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 07:40:54   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-05-11 07:40:54   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 07:40:54   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 07:40:54   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-05-11 07:40:54   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 18:54:46   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest----------
+2024-05-11 18:54:46   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 18:54:54   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 18:54:54   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 18:54:55   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 18:54:56   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 18:54:56   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 18:54:57   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 18:54:57   INFO [Pages.elements.HeaderElement] : BurgerMenu button Element is displayed
+2024-05-11 18:55:02   INFO [Pages.LoginPage] : Log In button Element is not displayed
+2024-05-11 18:55:07   INFO [Pages.LoginPage] : Element is not visible
+2024-05-11 18:55:12   INFO [Pages.LoginPage] : Element is not visible
+2024-05-11 18:55:12   INFO [LoginTest.LoginTest] : ----------T01_ValidLoginTest was finished ----------
+2024-05-11 18:57:36   INFO [LoginTest.LoginTest] : ----------T04_invalidLogin----------
+2024-05-11 18:57:36   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 18:57:40   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 18:57:40   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 18:57:41   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 18:57:41   INFO [Pages.LoginPage] : andriy was entered into inputUsername
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : 123456 was entered into inputPassword
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : Sign In button Element is displayed
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : Notification alert Element is displayed
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : Username element is displayed
+2024-05-11 18:57:42   INFO [Pages.LoginPage] : Password element is displayed
+2024-05-11 18:57:47   INFO [Pages.elements.HeaderElement] : BurgerMenu button Element is not displayed
+2024-05-11 18:57:52   INFO [Pages.elements.HeaderElement] : Cart button Element is not displayed
+2024-05-11 18:57:52   INFO [LoginTest.LoginTest] : ----------T04_invalidLogin was finished ----------
+2024-05-11 19:00:39   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:00:39   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:00:46   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:00:46   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:00:47   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:00:47   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:00:47   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:00:48   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:00:48   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:00:48   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:00:48   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:00:53   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:02:37   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:02:37   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:02:42   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:02:42   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:02:43   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:02:44   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:02:44   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:02:44   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:02:44   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:02:45   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:02:45   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:02:50   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:04:14   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:04:14   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:04:19   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:04:20   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:04:20   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:04:21   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:04:21   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:04:21   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:04:22   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:04:22   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:04:22   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:04:27   INFO [Pages.elements.HeaderElement] : Cart button Element is not displayed
+2024-05-11 19:04:27   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:04:27   INFO [Pages.elements.HeaderElement] : Cart button Element is displayed
+2024-05-11 19:04:27   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:04:27   INFO [Pages.CommonActionsWithElements] : new tab is closed
+2024-05-11 19:04:27   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:04:27   INFO [Pages.elements.HeaderElement] : Cart button Element is displayed
+2024-05-11 19:04:27   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:10:51   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:10:51   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:10:55   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:10:56   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:10:56   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:10:57   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:10:58   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:10:58   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:10:58   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:10:58   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:10:58   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:11:03   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
