@@ -68,6 +68,12 @@ public class HeaderElement extends CommonActionsWithElements {
     }
 
     @Step
+    public HeaderElement checkIsBurgerMenuButtonIsVisible() {
+        checkIsElementVisible(burgerMenuButton);
+         return this;
+    }
+
+    @Step
     public HomePage clickOnButtonBurgerMenuButton() {
         clickOnElement(burgerMenuButton);
         return new HomePage(webDriver);

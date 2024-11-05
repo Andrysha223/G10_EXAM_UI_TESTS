@@ -64,6 +64,12 @@ public class LoginPage extends ParentPage {
     }
 
     @Step
+    public LoginPage checkIsInputUserNameVisible() {
+        checkIsElementVisible(inputUserNameInLoginForm);
+        return this;
+    }
+
+    @Step
     public boolean isInputPasswordVisible() {
         return isElementVisible(inputPasswordInLoginForm, "InputPassword is visible");
     }

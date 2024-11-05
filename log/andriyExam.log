@@ -1824,3 +1824,95 @@
 2024-05-11 19:23:47   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
 2024-05-11 19:23:47   INFO [Pages.LoginPage] : Login Element was clicked
 2024-05-11 19:23:47   INFO [LoginTest.LoginTest] : ----------T06_InvalidLoginWithParameters was finished ----------
+2024-05-11 19:33:01   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:33:01   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:33:06   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:33:06   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:33:07   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:33:08   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:33:08   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:33:08   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:33:08   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:33:08   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:33:09   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:33:14   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:48:21   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:48:21   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:48:26   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:48:27   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:48:27   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:48:28   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:48:28   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:48:28   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:48:29   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:48:29   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:48:29   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:53:17   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:53:17   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:53:23   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:53:23   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:53:23   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:53:24   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:53:24   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:53:25   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:53:30   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:58:05   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:58:05   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:58:11   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:58:12   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:58:12   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:58:13   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:58:13   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:58:14   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:58:14   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:58:14   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:58:14   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:58:19   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:58:49   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:58:49   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:58:53   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:58:53   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:58:54   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:58:54   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:58:54   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:58:55   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:58:55   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : new tab is closed
+2024-05-11 19:58:55   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:58:55   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 19:59:35   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 19:59:35   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 19:59:40   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 19:59:41   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 19:59:41   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:59:42   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 19:59:42   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 19:59:42   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:59:43   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : new tab is closed
+2024-05-11 19:59:43   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 19:59:43   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
+2024-05-11 20:00:07   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs----------
+2024-05-11 20:00:07   INFO [LoginTest.LoginTest] : Browser is null
+2024-05-11 20:00:12   INFO [LoginTest.LoginTest] : Browser is chrome
+2024-05-11 20:00:12   INFO [LoginTest.LoginTest] : Browser was opened
+2024-05-11 20:00:13   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 20:00:13   INFO [Pages.LoginPage] : standard_user was entered into inputUsername
+2024-05-11 20:00:14   INFO [Pages.LoginPage] : secret_sauce was entered into inputPassword
+2024-05-11 20:00:14   INFO [Pages.LoginPage] : Login Element was clicked
+2024-05-11 20:00:14   INFO [Pages.CommonActionsWithElements] : New tab was opened
+2024-05-11 20:00:14   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 20:00:14   INFO [Pages.LoginPage] : Login page was opened_https://www.saucedemo.com/
+2024-05-11 20:00:15   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 20:00:15   INFO [Pages.CommonActionsWithElements] : Switched to new tab
+2024-05-11 20:00:15   INFO [Pages.CommonActionsWithElements] : new tab is closed
+2024-05-11 20:00:15   INFO [Pages.CommonActionsWithElements] : Switched to main tab
+2024-05-11 20:00:15   INFO [LoginTest.LoginTest] : ----------T03_SessionPersistenceAcrossTabs was finished ----------
